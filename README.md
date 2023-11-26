@@ -1,2 +1,2 @@
-# Cajero
-Aplicación escritorio, JAVA Aplicando las Clases, Objetos y atributos POO.
+# Taller 7
+Aplicación escritorio, JAVA Usando JDBC Crud basico; consultas SQL.
