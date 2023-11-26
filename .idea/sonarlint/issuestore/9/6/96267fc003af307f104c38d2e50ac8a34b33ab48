@@ -1,0 +1,20 @@
+
+ˆ
+java:S1450"kRemove the "consultarDepartamentosButton" field and declare it as a local variable in the relevant methods.(€šÚË8“æèÈÀ1
+…
+java:S1450"hRemove the "consultarProfesoresButton" field and declare it as a local variable in the relevant methods.(…ñ¶8«¦ûÈÀ1
+
+java:S1450"cRemove the "consultarTemasButton" field and declare it as a local variable in the relevant methods.(¤‰ÓR8“æèÈÀ1
+„
+java:S1450	"gRemove the "insertDepartamentoButton" field and declare it as a local variable in the relevant methods.(¬âÕ8“æèÈÀ1
+€
+java:S1450"cRemove the "insertFacultadButton" field and declare it as a local variable in the relevant methods.(´Ùß«8“æèÈÀ1
+…
+java:S1450
+"cRemove the "insertProfesorButton" field and declare it as a local variable in the relevant methods.(ºóºÓüÿÿÿÿ8“æèÈÀ1
+Š
+java:S1450"hRemove the "modificarNombreTemaButton" field and declare it as a local variable in the relevant methods.(¦ê¡²úÿÿÿÿ8“æèÈÀ1
+ˆ
+java:S1450"fRemove the "modificarProfesorButton" field and declare it as a local variable in the relevant methods.(Æë¸êùÿÿÿÿ8“æèÈÀ1
+S
+java:S1948"1Make "databaseManager" transient or serializable.(ß¡²²ùÿÿÿÿ8¡›üÉÀ1
